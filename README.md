@@ -130,9 +130,4 @@ This scaffold includes a comprehensive set of modern web development tools:
 
 ## 🤝 Get Started with Kunal
 
-1. **Clone this scaffold** to jumpstart your project
-2. **Visit Kunal Github Account** to access your AI coding assistant
-3. **Start building** with intelligent code generation and assistance
-4. **Deploy with confidence** using the production-ready setup
 
----
